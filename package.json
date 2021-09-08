@@ -1,0 +1,22 @@
+{
+  "name": "learning-h5",
+  "version": "1.0.0",
+  "description": "H5 class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/020cui/h5.git"
+  },
+  "keywords": [
+    "h5"
+  ],
+  "author": "kenxin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/020cui/h5/issues"
+  },
+  "homepage": "https://github.com/020cui/h5#readme"
+}
